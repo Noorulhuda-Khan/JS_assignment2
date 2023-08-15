@@ -92,7 +92,22 @@
 // n++
 // console.log(n * num1)
 
-// Q5
+// Q6
+
+
+// var maths= Number(prompt("Enter maths marks", "0"))
+// var phy= Number(prompt("Enter physics marks", "0"))
+// var chem= Number(prompt("Enter chemistry marks", "0"))
+
+
+// var totalMarks= 300
+
+// var marksGot= (maths+phy+chem)
+
+// var percentage= (marksGot/totalMarks)*100
+
+// console.log(marksGot)
+// console.log(percentage)
 
 
 
