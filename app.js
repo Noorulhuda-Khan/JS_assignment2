@@ -113,6 +113,86 @@
 
 
 
+// CHAP 9-11
+
+
+// Q1
+
+// var city= prompt("Enter your city");
+
+// if (city === "karachi"){
+
+// alert("welcome to city of lights")
+
+// }
+
+
+
+// Q2
+
+// var gender= prompt("Enter your grnder", "male");
+
+
+// if (gender==="male"){
+// alert("Good morning Sir!")
+
+// };
+
+// if (gender==="female"){
+//     alert("Good morning madam!")
+    
+//     }
+
+
+// Q3
+
+// var trafficSignal= prompt("Enter indicated color", "green");
+
+
+// if (trafficSignal==="red"){
+// alert("must stop")
+
+// };
+
+// if (trafficSignal==="yellow"){
+//     alert("ready to move")
+    
+//     };
+
+//     if (trafficSignal==="green"){
+//         alert("move now")
+        
+//         };
+
+
+// Q#10
+
+
+// var number1= Number(prompt("enter 1st number"))
+// var number2= Number(prompt("enter 2st number"))
+
+// var operator1= prompt("enter calculation operator i.e. + / - / * / divide")
+
+// if (operator1=== "+"){
+
+//     alert(number1+number2)
+// };
+// if (operator1=== "-"){
+
+//     alert(number1-number2)
+// };
+// if (operator1=== "x"){
+
+//     alert(number1*number2)
+// };
+// if (operator1=== "/"){
+
+//     alert(number1/number2)
+// };
+
+
+
+
 
 
 
